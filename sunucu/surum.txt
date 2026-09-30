@@ -1,3 +1,4 @@
-SURUM=0x00002B
-DOSYA=smartwatch_v0.0.43.bin
-
+SURUM=0x00002C
+DOSYA=smartwatch_v0.0.44.bin
+BOY=1284984
+CRC=0x66B20450
